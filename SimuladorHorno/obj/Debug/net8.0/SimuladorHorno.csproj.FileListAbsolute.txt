@@ -1,0 +1,14 @@
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\bin\Debug\net8.0\SimuladorHorno.exe
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\bin\Debug\net8.0\SimuladorHorno.deps.json
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\bin\Debug\net8.0\SimuladorHorno.runtimeconfig.json
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\bin\Debug\net8.0\SimuladorHorno.dll
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\bin\Debug\net8.0\SimuladorHorno.pdb
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.AssemblyInfo.cs
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.dll
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\refint\SimuladorHorno.dll
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.pdb
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\SimuladorHorno.genruntimeconfig.cache
+C:\Users\josep\Desktop\SimuladorHorno\SimuladorHorno\obj\Debug\net8.0\ref\SimuladorHorno.dll
